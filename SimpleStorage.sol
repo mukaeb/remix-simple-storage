@@ -1,7 +1,7 @@
 // تعليق
 // SPDX-License-Identifier: MIT
 
-pragma solidity 0.8.19; //إصدار سوليتدي 
+pragma solidity 0.8.18; //إصدار سوليتدي 
 
 // pragma solidity ^0.8.0;
 // pragma solidity >=0.8.0 <0.9.0;
